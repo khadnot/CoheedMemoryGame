@@ -1,0 +1,43 @@
+#game div {
+    border: 1px solid black;
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+    display: inline-flex;
+  }
+  
+  body div {
+      text-align: center;
+  }
+  
+  h1 {
+      text-align: center;
+  }
+  
+  .sstb {
+      background-image: url("https://i.ibb.co/25TMqFc/sstb.jpg");
+  }
+  
+  .iksse3 {
+      background-image: url("https://i.ibb.co/MVx4X2q/iksse3.jpg");
+  }
+  
+  .good-apollo {
+      background-image: url("https://i.ibb.co/Jzk87cD/good-apollo.jpg");
+  }
+  
+  .nwft {
+      background-image: url("https://i.ibb.co/xCCYtr4/nwft.jpg");
+  }
+  
+  .black-rainbow {
+      background-image: url("https://i.ibb.co/YTXF4Cv/black-rainbow.jpg");
+  }
+  
+  .descension {
+      background-image: url("https://i.ibb.co/1n9mGxr/descension.jpg");
+  }
+  
+  .hidden {
+      background-image: url("https://i.ibb.co/rbKT1tp/keywork.jpg");
+  }
